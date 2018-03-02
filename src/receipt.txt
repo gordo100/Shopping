@@ -1,0 +1,17 @@
+Cart:
+contents=
+Order:
+item=Product:
+productCode=3, description=Pineapple, unitPrice =79
+quantity=1
+Order:
+item=Product:
+productCode=2, description=Apples x 5, unitPrice =100
+quantity=1]
+shopper=Customer:
+customerName=Name:
+firstName=G, familyName=D
+customerId=DG0, rewardPoints=0
+deliveryDate=Date:
+day=5, month=3, year=2018
+cartId=CART1]
